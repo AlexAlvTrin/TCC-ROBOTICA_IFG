@@ -1,0 +1,15 @@
+Cinemática do manipulador robótico
+
+Software utilizado RTSS e Scilab4.1.2
+http://rtss.sourceforge.net/
+
+O arquivo instalacao_e_config.pdf contem instruções de instalação e configuração do programa. 
+
+model_robot.sce -> modelo que representa o manipulador construído.
+
+algoritmo_de_movimentacao.sce -> referente à Fig. 4.23 - Fluxograma algoritmo de movimentação.
+
+ajuste_ao_ponto_objetivo.sce -> referente à Fig. 4.28 - Fluxograma do código fonte.
+
+
+
